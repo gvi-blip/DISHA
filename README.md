@@ -3,6 +3,18 @@ Disha is a headwear device to be used by blind people. Its features include:
 * Vehicle light detection
 * Fall detection and sending emergency location as well as requesting current location
 
+Components:
+https://github.com/gvi-blip/DISHA/blob/master/Components.jpg
+
+Circuit Design:
+https://github.com/gvi-blip/DISHA/blob/master/Circuit%20Design.jpg
+
+Flowcharts for code:
+
+https://github.com/gvi-blip/DISHA/blob/master/Flowchart%20for%20Board1.jpg
+
+https://github.com/gvi-blip/DISHA/blob/master/Flowchart%20for%20Board2.jpg
+
 Assembly of Hardware and Components:
 
 * Initially, the attempt was to interface all modules with a single Arduino UNO board.
